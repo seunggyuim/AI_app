@@ -1,0 +1,11 @@
+
+ think in terms of myapp and activation 
+ run flask or do python  
+
+https://medium.com/analytics-vidhya/efficient-way-to-activate-conda-in-vscode-ef21c4c231f2
+
+todos : 
+
+1. configure index.html
+2. git commit the page 
+3. ai filtering part 
